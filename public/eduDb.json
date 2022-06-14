@@ -1,0 +1,110 @@
+[
+    {
+      "coursename": "Web Dev",
+      "company": "WebTech",
+      "img": "./images/course-image1.jpg",
+      "price": "70$",
+      "instructor": "Jhon Deo",
+      "coursehour": "120 Hour",
+      "key": "1"
+    },
+    {
+      "coursename": "App Dev",
+      "company": "AppTech",
+      "img": "./images/course-image2.jpg",
+      "price": "65$",
+      "instructor": "Ava Del",
+      "coursehour": "100 Hour",
+      "key": "2"
+    },
+    {
+      "coursename": "Phython Dev",
+      "company": "PythonTech",
+      "img": "./images/course-image3.jpg",
+      "price": "95$",
+      "instructor": "Roger Von",
+      "coursehour": "90 Hour",
+      "key": "3"
+    },
+    {
+      "coursename": "Oracle DB",
+      "company": "DB Oracle",
+      "img": "./images/course-image4.jpg",
+      "price": "120$",
+      "instructor": "Kathy James",
+      "coursehour": "80 Hour",
+      "key": "4"
+    },
+    {
+      "coursename": "Data Science",
+      "company": "DScience",
+      "img": "./images/course-image5.jpg",
+      "price": "150$",
+      "instructor": "Norman Hanopian",
+      "coursehour": "150 Hour",
+      "key": "5"
+    },
+    {
+      "coursename": "JavaScript",
+      "company": "JSTech",
+      "img": "./images/course-image6.jpg",
+      "price": "60$",
+      "instructor": "Graciela Rushing",
+      "coursehour": "110 Hour",
+      "key": "6"
+    },
+    {
+      "coursename": "Node JS",
+      "company": "NodeTech",
+      "img": "./images/course-image7.jpg",
+      "price": "80$",
+      "instructor": "Mary Morrow",
+      "coursehour": "140 Hour",
+      "key": "7"
+    },
+    {
+      "coursename": "Angular JS",
+      "company": "AngTech",
+      "img": "./images/course-image8.jpg",
+      "price": "80$",
+      "instructor": "Samuel Edwards",
+      "coursehour": "100 Hour",
+      "key": "8"
+    },
+    {
+      "coursename": "React Native",
+      "company": "WebTech",
+      "img": "./images/course-image9.jpg",
+      "price": "70$",
+      "instructor": "Michael Anderson",
+      "coursehour": "120 Hour",
+      "key": "9"
+    },
+    {
+      "coursename": "DB Management",
+      "company": "DBTech",
+      "img": "./images/course-image10.jpg",
+      "price": "100$",
+      "instructor": "Vince Padillo",
+      "coursehour": "80 Hour",
+      "key": "10"
+    },
+    {
+      "coursename": "Unreal Engine",
+      "company": "Real Engine",
+      "img": "./images/course-image11.jpg",
+      "price": "75$",
+      "instructor": "Robbie Williams",
+      "coursehour": "70 Hour",
+      "key": "11"
+    },
+    {
+      "coursename": "Mongo DB",
+      "company": "DB Mongo",
+      "img": "./images/course-image12.jpg",
+      "price": "60$",
+      "instructor": "Brent Mathis",
+      "coursehour": "60 Hour",
+      "key": "12"
+    }
+  ]

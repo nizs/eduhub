@@ -45,9 +45,9 @@ export default function BasicGrid() {
                         </Stack>
                         <Stack direction='column' spacing={1}>
                             <Typography variant="h5">Contact Us</Typography>
-                            <Typography variant="body1">Kesar Farms, Pakhand, Khamnor, Nathdwara Rajasthan 313323</Typography>
-                            <Typography variant="body1">Phone: +91 99741 27473</Typography>
-                            <Typography variant="body1">Email: stoxmasterbsc@gmail.com</Typography>
+                            <Typography variant="body1">Level-4, 34, Awal Centre, Banani, Dhaka</Typography>
+                            <Typography variant="body1">Phone: +880 18699-18471</Typography>
+                            <Typography variant="body1">Email: tauhidafser03@gmail.com</Typography>
                         </Stack>
                     </Grid>
                     <Grid item xs={12} sm={12} md={6} lg={4}>

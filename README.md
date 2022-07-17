@@ -1,6 +1,6 @@
 # EduHub
 
-Live Project Link :  
+Live Project Link :  https://edduhubb.netlify.app/
 
 # Features
 - EduHub provides Educational course ralated information and service

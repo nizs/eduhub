@@ -6,6 +6,7 @@ import Home from '../src/pages/Home/Home';
 import About from '../src/pages/About/About';
 import OurServices from '../src/pages/OurServices/OurServices';
 import OurBlog from '../src/pages/OurBlog/OurBlog';
+import PageNotFound from '../src/pages/PageNotFound/PageNotFound';
 import Footer from '../src/components/Footer/Footer';
 
 
@@ -24,6 +25,7 @@ function App() {
         <Route path="About" element={<About />} />
         <Route path="OurServices" element={<OurServices />} />
         <Route path="OurBlog" element={<OurBlog />} />
+        <Route path="*" element={<PageNotFound />} />
       </Routes>
       <Footer></Footer>
     </div>

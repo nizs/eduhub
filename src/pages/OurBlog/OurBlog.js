@@ -1,10 +1,13 @@
 import React from 'react';
-import Blog from '../../components/Blog/Blog';
+import Blogs from '../../components/Blogs/Blogs';
+import { Container } from '@mui/material';
 
 const OurBlog = () => {
     return (
         <>
-            <Blog></Blog>
+            <Container>
+                <Blogs></Blogs>
+            </Container>
         </>
     );
 };
